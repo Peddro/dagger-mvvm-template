@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Mvvm Template</string>
+  <string name="provided_string">This was provided by resource provider</string>
+</resources>
